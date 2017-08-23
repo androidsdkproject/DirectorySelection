@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DirectorySelection</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample explains how to use Directory selection API, which was introduced
+            in Android 5.0.
+
+
+        ]]>
+    </string>
+
+    <string name="open_directory">Open directory</string>
+    <string name="create_directory">Create Directory</string>
+    <string name="selected_directory">"Selected Directory : "</string>
+
+</resources>
